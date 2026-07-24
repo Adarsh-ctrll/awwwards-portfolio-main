@@ -1,78 +1,81 @@
 // index.js
 export const servicesData = [
   {
-    title: "FullStack Development",
+    title: "Full Stack Development",
     description:
-      "Your business deserves a fast, secure, and future-proof digital foundation. I develop custom web apps with clean architecture, optimized databases, and seamless integrations—ensuring reliability at every layer.",
+      "Building responsive and scalable web applications using modern frontend and backend technologies with secure authentication and real-time features.",
     items: [
       {
-        title: "Backend Engineering",
-        description: "(REST/GraphQL APIs, Microservices, Auth Systems)",
+        title: "Frontend",
+        description: "(React.js, Next.js, Tailwind CSS)",
       },
       {
-        title: "Frontend Excellence",
-        description: "(React, Vue, TypeScript, Interactive UI/UX)",
+        title: "Backend",
+        description: "(Node.js, Express.js, REST APIs)",
       },
       {
-        title: "Database Design",
-        description: "(SQL/NoSQL Optimization, Scalable Structures)",
+        title: "Database",
+        description: "(MongoDB, MySQL)",
       },
     ],
   },
+
   {
-    title: "DevOps & Cloud Solutions",
+    title: "Data Analytics",
     description:
-      "Deploying software shouldn't be a gamble. I automate infrastructure, enforce security, and leverage cloud platforms (AWS/Azure) to keep your app running smoothly—24/7, at any scale.",
+      "Transforming raw data into actionable insights through visualization, analysis, and statistical techniques.",
     items: [
       {
-        title: "CI/CD Pipelines",
-        description: "(GitHub Actions, Docker, Kubernetes)",
+        title: "Data Analysis",
+        description: "(Python, Pandas, NumPy)",
       },
       {
-        title: "Server Management ",
-        description: "(Linux, Nginx, Load Balancing)",
+        title: "Visualization",
+        description: "(Power BI, Excel, Matplotlib)",
       },
       {
-        title: "Performance Tuning",
-        description: "(Caching, Compression, Lighthouse 90+ Scores)",
+        title: "SQL",
+        description: "(Data Cleaning, Queries, Joins)",
       },
     ],
   },
+
   {
-    title: "Security & Optimization",
+    title: "Programming & DSA",
     description:
-      "Slow or hacked apps destroy trust. I harden security (XSS/SQLI protection, OAuth) and optimize bottlenecks so your app stays fast, safe, and scalable as you grow.",
+      "Strong understanding of algorithms, data structures, and object-oriented programming for solving complex coding problems.",
     items: [
       {
-        title: "Code Audits",
-        description: "(Refactoring, Tech Debt Cleanup)",
+        title: "C++",
+        description: "(STL, OOP)",
       },
       {
-        title: "Pen Testing",
-        description: "(Vulnerability Assessments)",
+        title: "Data Structures",
+        description: "(Arrays, Trees, Graphs, DP)",
       },
       {
-        title: "SEO Tech Stack",
-        description: "(SSR, Metadata, Structured Data)",
+        title: "Problem Solving",
+        description: "(LeetCode, Competitive Programming)",
       },
     ],
   },
+
   {
-    title: "Web & Mobile Apps",
+    title: "Tools & Technologies",
     description:
-      "A clunky interface can sink even the best ideas. I craft responsive, pixel perfect web and mobile apps (React Native/Flutter) that users love—bridging design and functionality seamlessly.",
+      "Experienced with modern development tools, version control, deployment platforms, and collaborative workflows.",
     items: [
       {
-        title: "Cross-Platform Apps",
-        description: "(Single codebase for iOS/Android/Web)",
+        title: "Git & GitHub",
+        description: "(Version Control)",
       },
       {
-        title: "PWAs",
-        description: "(Offline mode, Push Notifications)",
+        title: "Vercel",
+        description: "(Deployment & Hosting)",
       },
       {
-        title: "E-Commerce",
-        description: "(Checkout flows, Payment Gateways, Inventory APIs)",
+        title: "Postman",
+        description: "(API Testing)",
       },
     ],
   },

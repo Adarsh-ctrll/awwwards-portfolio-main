@@ -6,7 +6,7 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 
 > ⚡ Inspired by Awwwards-level sites — built with React (Vite), TailwindCSS, GSAP, React Three Fiber, and Drei.
 
-<br/>
+<!-- <br/>
 <div>
   <img src="https://github.com/user-attachments/assets/4eaf9399-fd02-4a90-83f7-2b5a361bc032" alt="Hero" style="border-radius: 8px;"/>
   <div style="display: flex; justify-content: space-between; margin: 20px 0;">
@@ -15,10 +15,8 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
     <img src="https://github.com/user-attachments/assets/3e473322-b96a-433b-aec5-ece9bab25795" alt="Contact" style="width: 32%; border-radius: 8px;"/>
   </div>
 </div>
-<br/>
+<br/> -->
 
-> 📺 [Watch Full YouTube Walkthrough](https://youtu.be/i0229UsdBwc)
----
 
 ## 🚀 Tech Stack
 
@@ -69,25 +67,6 @@ npm run dev
 
 ---
 
-## 🔗 Assets
-
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
-
----
-
-## 📣 Like the project?
-
-If this helped you build or inspire your own site:
-
-- ⭐ Star this repo
-
-- 📺 [Watch the full walkthrough on YouTube](https://youtu.be/i0229UsdBwc)
-
-- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ali-sanati)
-
-- 📷 [Follow me on Instagram](https://www.instagram.com/ali.sanatidev/reels/)
-
----
 
 ## 🤝 Let’s Build Together
 

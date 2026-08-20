@@ -141,9 +141,45 @@ export const projects = [
     { id: 7, name: "Tailwind CSS" },
   ],
 },
-
 {
   id: 4,
+  name: "StaySense — NYC Airbnb Room Type Predictor",
+  description:
+    "A machine learning-powered web application that predicts Airbnb room types from listing details, with class probability estimates through an interactive web interface.",
+  href: "https://staysense-xh91.onrender.com/",
+  github: "https://github.com/Adarsh-ctrll/staysense",
+  image: "/assets/projects/staysense.png",
+  bgImage: "/assets/backgrounds/blanket.jpg",
+  frameworks: [
+    { id: 1, name: "Python" },
+    { id: 2, name: "Scikit-learn" },
+    { id: 3, name: "Pandas" },
+    { id: 4, name: "NumPy" },
+    { id: 5, name: "FastAPI" },
+    { id: 6, name: "JavaScript" },
+  ],
+},
+{
+  id: 5,
+  name: "DocuMind AI",
+  description:
+    "An AI-powered RAG application that lets users upload PDF documents and ask questions grounded in the document content using semantic retrieval and LLM-powered responses.",
+  href: "https://bookmindai-kgalf2tkleljjvbycvape8.streamlit.app/",
+  github: "https://github.com/Adarsh-ctrll/BookmindAI",
+  image: "/assets/projects/documind.jpg",
+  bgImage: "/assets/backgrounds/blanket.jpg",
+  frameworks: [
+    { id: 1, name: "Python" },
+    { id: 2, name: "LangChain" },
+    { id: 3, name: "Streamlit" },
+    { id: 4, name: "ChromaDB" },
+    { id: 5, name: "HuggingFace" },
+    { id: 6, name: "Mistral AI" },
+    { id: 7, name: "RAG" },
+  ],
+},
+{
+  id: 6,
   name: "Heart Stroke Prediction Application",
   description:
     "A machine learning-powered web application that predicts heart stroke risk using clinical data with real-time predictions through an interactive Streamlit interface.",
@@ -160,7 +196,7 @@ export const projects = [
   ],
 },
 {
-  id: 5,
+  id: 7,
   name: "SpyderBoard - Real-Time Whiteboard",
   description:
     "A collaborative whiteboard built with React and ZEGO SuperBoard SDK, featuring real-time drawing, text, shapes, eraser, laser pointer.",
@@ -177,7 +213,7 @@ export const projects = [
   ],
 },
 {
-  id: 6,
+  id: 8,
   name: "Analyzing Astronomical Naming Trends",
   description:
     "A data analysis project exploring naming patterns across 500+ stars from 88 constellations using Python, Power BI, and statistical visualization techniques.",
@@ -194,7 +230,7 @@ export const projects = [
   ],
 },
   {
-  id: 7,
+  id: 9,
   name: "Smart Bathroom Cleaning Tracker",
   description:
     "An IoT-based smart cleaning management system that digitizes restroom maintenance using RFID authentication, real-time logging, and automated monitoring through Google Sheets.",

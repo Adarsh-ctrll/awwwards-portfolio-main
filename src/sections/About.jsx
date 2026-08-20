@@ -10,6 +10,7 @@ Building modern web applications
 Solving real-world problems through code`;
   const aboutText = `
 Hi! I am Adarsh Kumar, a final-year B.Tech student in Engineering and Computational Mechanics at MNNIT Allahabad. My interests span software development, data analytics, machine learning, and Generative AI, with a strong foundation in data structures and problem-solving. I enjoy building real-world applications and working across the stack, from developing full-stack web applications to building ML and RAG-based AI systems. My projects include Srijan AI, an AI-powered website builder with authentication, live code editing, deployment, and Stripe-powered credit management; Loopr, a full-stack social networking platform; DocuChat AI, a RAG-based PDF question-answering application using LangChain, ChromaDB, HuggingFace embeddings, and Mistral AI; PeerPrep, a real-time interview preparation platform; Smart Bathroom Cleaning Tracker, an IoT-based monitoring system; and Urban Traffic Flow Optimization, a data analytics project.
+`
   const imgRef = useRef(null);
   useGSAP(() => {
     gsap.to("#about", {

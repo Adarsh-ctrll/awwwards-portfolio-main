@@ -166,7 +166,7 @@ export const projects = [
     "An AI-powered RAG application that lets users upload PDF documents and ask questions grounded in the document content using semantic retrieval and LLM-powered responses.",
   href: "https://bookmindai-kgalf2tkleljjvbycvape8.streamlit.app/",
   github: "https://github.com/Adarsh-ctrll/BookmindAI",
-  image: "/assets/projects/documind.jpg",
+  image: "/assets/projects/documind.png",
   bgImage: "/assets/backgrounds/blanket.jpg",
   frameworks: [
     { id: 1, name: "Python" },

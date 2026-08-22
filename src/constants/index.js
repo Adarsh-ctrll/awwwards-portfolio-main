@@ -145,9 +145,9 @@ export const projects = [
   id: 4,
   name: "StaySense — NYC Airbnb Room Type Predictor",
   description:
-    "A machine learning-powered web application that predicts Airbnb room types from listing details, with class probability estimates through an interactive web interface.",
-  href: "https://staysense-xh91.onrender.com/",
-  github: "https://github.com/Adarsh-ctrll/staysense",
+    "A machine learning-powered web application that predicts Airbnb room types from listing details, with class probability estimates through an interactive web interface with Shap.",
+  href: "https://staysense-shap.onrender.com/",
+  github: "https://github.com/Adarsh-ctrll/staysense-shap",
   image: "/assets/projects/staysense.png",
   bgImage: "/assets/backgrounds/blanket.jpg",
   frameworks: [
